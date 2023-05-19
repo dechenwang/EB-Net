@@ -36,11 +36,11 @@ to: summary(model, input_size=(3, cfg.input_height, cfg.input_width)) <br />
 <br />
 Question 2: How to calculate the Speed of NanoDet? <br />
 look demo.py in NanoDet: <br />
-![image](https://github.com/dechenwang/NB-Net/blob/master/nano.png)
+![image](https://github.com/dechenwang/NB-Net/blob/master/nano.png)<br />
 get three times, the data column processing, into excel, by calculating the average time can get Speed</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">Results</div>
 codes train results <br />
 If readers need ablation experiment weights and comparison experiment weights, please contact us <br />
-![image](https://github.com/dechenwang/NB-Net/blob/master/trainres.png) <br />
+![image](https://github.com/dechenwang/NB-Net/blob/master/trainres.png)<br />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
