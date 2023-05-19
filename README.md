@@ -25,12 +25,10 @@ Question 2: How to calculate the Speed of NanoDet? <br />
 look demo.py in NanoDet: <br />
 ![image](https://github.com/dechenwang/NB-Net/assets/104114673/4b421b85-2d39-4159-949d-05abaf2f5dc5)
 get three times, the data column processing, into excel, by calculating the average time can get Speed
-
-
+-------------------------------
 codes train results
 ![image](https://github.com/dechenwang/NB-Net/assets/104114673/f8dded7f-49d0-48e8-a7bc-aa1dc4cb8ee5)
-
-
+-------------------------------
 See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for
 full documentation on training, validation, prediction and deployment.
 
