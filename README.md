@@ -1,5 +1,23 @@
 ## <div align="center">Documentation</div>
 
+train.py    ## train model
+test.py    ## val model
+predict.py   ## detect model
+
+ultralytics/models/v8/   ## all train xx.yml
+
+ultralytics/nn/    ## innovation points and comparison codes, such as DSFormer, CroSPPF, MHSA, shuffleattention, aspp, etc.
+
+ultralytics/yolo/utils/    ## metrics.py tal.py and loss.py: DDIou
+
+For the experiments with V3-tiny, v5, v5lite, yolox, and v7-tiny, we use code from yolo air:
+[air](https://github.com/iscyy/yoloair)
+If readers do not know how to use air, please contact us.
+
+codes train results
+![image](https://github.com/dechenwang/NB-Net/assets/104114673/f8dded7f-49d0-48e8-a7bc-aa1dc4cb8ee5)
+
+
 See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for
 full documentation on training, validation, prediction and deployment.
 
