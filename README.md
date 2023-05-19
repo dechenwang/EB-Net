@@ -1,9 +1,9 @@
 ## <div align="center">Documentation</div>
 
-train.py    ## train model
-test.py    ## val model
-predict.py   ## detect model
-
+train.py    ## train model <br />
+test.py    ## val model <br />
+predict.py   ## detect model <br />
+<br />
 ultralytics/models/v8/   ## all train xx.yml
 
 ultralytics/nn/    ## innovation points and comparison codes, such as DSFormer, CroSPPF, MHSA, shuffleattention, aspp, etc.
